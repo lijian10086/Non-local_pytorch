@@ -47,3 +47,6 @@ to **Non-Local_pytorch_0.3.1/**.
 ([**Paper**](https://arxiv.org/abs/1811.08383)) on Kinetics dataset. They report that their model achieves a good performance 
 of **75.6% on Kinetics**, which is even higher than Non-local ResNet-50 I3D 
 ([**Here**](https://github.com/AlexHex7/Non-local_pytorch/issues/23)).
+
+##李剑备注：
+https://www.jianshu.com/p/a9771abedf50 Non-local Neural Networks及自注意力机制思考
